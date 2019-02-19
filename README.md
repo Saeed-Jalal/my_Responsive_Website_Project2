@@ -1,6 +1,7 @@
 ##Task 
 
 My Full Responsive website project 2
+
 ##Technology
 
 HTML5
@@ -11,7 +12,7 @@ Flexbox
 
 My Own UI
 
-##Out Source
+##External Resources 
 
 Google Font API
 
